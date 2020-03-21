@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+``` console.log("This is my modifications in JS!")```
 Use the left arrow to go back!
